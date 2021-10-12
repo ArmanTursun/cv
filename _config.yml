@@ -8,7 +8,9 @@ version: 2
 # Personal info
 name: Arman Tursun
 title: Senior Network System Administrator
+phone: +81 080-3099-0424
 email: arman@g.ecc.u-tokyo.ac.jp
+address: 2-30-15, Hongo, Bunkyo-ku, Tokyo, Japan
 website: https://github.com/ArmanTursun
 
 # Dark Mode (true/false/never)
@@ -19,9 +21,9 @@ darkmode: false
 github_username:  ArmanTursun
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
-# facebook_username: jekyll
+facebook_username: arman5655
 # flickr_username: jekyll
-# instagram_username: jameswgrant
+instagram_username: armannnnnny
 # linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
