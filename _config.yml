@@ -67,7 +67,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           2nd year master student of [Nakao Lab](https://www.nakao-lab.org/) in the [Graduate School of Interdisciplinary Information Science](https://www.iii.u-tokyo.ac.jp/). Supervised by Professor [Akihiro Nakao](https://www.sys.t.u-tokyo.ac.jp/en/memberpage/2151).
 
-          I am broadly interested in networks and systems, more specifically in SDN.
+          I am broadly interested in networks and systems, more specifically in SDN; also like network analyzing using ML methods.
 
           My recent work is in the area of Network Sclicing, Local 5G, and Network Intelligence.
       - layout: left
@@ -77,19 +77,21 @@ content:
         #quote: >
           #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          I spent one year as research student in [Nakao Lab](https://www.nakao-lab.org/) working with Professor [Akihiro Nakao](https://www.sys.t.u-tokyo.ac.jp/en/memberpage/2151).
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          During my time as research student, I was mainly preparing for my entrance exam as well as catching up most recent research in 5G.
       - layout: left
         title: University of Science and Technology of China
         caption: Sept.2014 - June.2018
-        sub_title: B.E Engineering
+        sub_title: B.E Information Security
         #quote: >
         #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          I got my B.E in [School of Information Science and Technology](https://en.sist.ustc.edu.cn/) at the [University of Science and Technology of China](http://en.ustc.edu.cn/)
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          Graduation Thesis: Routing Algorithm in Disaster Relief Based on NDN Networks.
+
+          I spent a wonderful 4 years with lovely classmates and friends. 
 
 
 
