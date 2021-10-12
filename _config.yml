@@ -10,7 +10,7 @@ name: Arman Tursun
 title: Senior Network System Administrator
 phone: +81 080-3099-0424
 email: arman@g.ecc.u-tokyo.ac.jp
-address: 2-30-15, Hongo, Bunkyo-ku, Tokyo, Japan
+# address: 2-30-15, Hongo, Bunkyo-ku, Tokyo, Japan
 website: https://github.com/ArmanTursun
 
 # Dark Mode (true/false/never)
@@ -24,7 +24,7 @@ github_username:  ArmanTursun
 facebook_username: arman5655
 # flickr_username: jekyll
 instagram_username: armannnnnny
-# linkedin_username: jameswgrant
+linkedin_username: armantursun
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
