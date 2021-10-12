@@ -100,7 +100,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Design and Manuf [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9492547)
+        title: Design and Manufasd [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9492547)
         #link: [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9492547)
         #link_text: [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9492547)
         #additional_links:
