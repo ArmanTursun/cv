@@ -103,7 +103,7 @@ content:
         title: Design and Manuf
         #link: [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9492547)
         link_text: [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9492547)
-        additional_links:
+        #additional_links:
         #- title:  sproogen/modern-resume-theme
           #icon: fab fa-github
           #url: github.com/sproogen/modern-resume-theme
