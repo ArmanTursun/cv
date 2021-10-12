@@ -112,7 +112,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             Aerman Tuerxun, Ping Du, Junji Yumoto, Akihiro Nakao, 4th International Workshop on Advances in Slicing forSoftwarized Infrastructures, IEEE International Conference on Network Softwarization, 2021. [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9492547)
 
-      - layout: top-left
+      - layout: top-middle
         title: Analysis on Route Information Failure in IP Core Networks by NFV-Based Test Environment
         description: | # this will include new lines to allow paragraphs
           Fei Xia,Aerman Tuerxun, Jiaxing Lu. Ping Du, Akihiro Nakao, ITU Journal on Future and Evolving Technologiesspecial issue on AI and machine learning solutions in 5G and future networks, 2021.
