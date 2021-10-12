@@ -99,7 +99,7 @@ content:
   - title: Publication # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-left
+      - layout: left
         title: Design and Manufacture of Narrow-Band BPF for Local 5G Network Slicing
         #link: [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9492547)
         #link_text: [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9492547)
