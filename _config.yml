@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Arman Tursun
-title: Senior Network System Administrator
+#title: Senior Network System Administrator
 phone: +81 080-3099-0424
 email: arman@g.ecc.u-tokyo.ac.jp
 # address: 2-30-15, Hongo, Bunkyo-ku, Tokyo, Japan
@@ -59,11 +59,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: The University of Tokyo
+        caption: 2020 - Present
+        sub_title: M.E Computer Science
+        #quote: >
+          #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
