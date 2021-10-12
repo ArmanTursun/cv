@@ -99,7 +99,7 @@ content:
   - title: Publication # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: Design and Manufacture of Narrow-Band BPF for Local 5G Network Slicing
         #link: [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9492547)
         #link_text: [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9492547)
@@ -107,22 +107,22 @@ content:
         #- title:  sproogen/modern-resume-theme
           #icon: fab fa-github
           #url: github.com/sproogen/modern-resume-theme
-        #quote: >
-            #This is .
+        quote: >
+          Aerman Tuerxun, Ping Du, Junji Yumoto, Akihiro Nakao, 4th International Workshop on Advances in Slicing forSoftwarized Infrastructures, IEEE International Conference on Network Softwarization, 2021. [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9492547)
         description: | # this will include new lines to allow paragraphs
-            Aerman Tuerxun, Ping Du, Junji Yumoto, Akihiro Nakao, 4th International Workshop on Advances in Slicing forSoftwarized Infrastructures, IEEE International Conference on Network Softwarization, 2021. [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9492547)
+          Aerman Tuerxun, Ping Du, Junji Yumoto, Akihiro Nakao, 4th International Workshop on Advances in Slicing forSoftwarized Infrastructures, IEEE International Conference on Network Softwarization, 2021. [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9492547)
 
       - layout: top-middle
         title: Analysis on Route Information Failure in IP Core Networks by NFV-Based Test Environment
         description: | # this will include new lines to allow paragraphs
           Fei Xia,Aerman Tuerxun, Jiaxing Lu. Ping Du, Akihiro Nakao, ITU Journal on Future and Evolving Technologiesspecial issue on AI and machine learning solutions in 5G and future networks, 2021.
 
-      - layout: top-left
+      - layout: top-middle
         title: Automatic Check-In Service at Businesses Enabled with Private Mobile Networks
         description: | # this will include new lines to allow paragraphs
             Ping Du,Aerman Tuerxun, Anan Sawabe, Takanori Iwai, Akihiro Nakao, IEEE Global CommunicationsConference (Globecom), 2020. [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9348115)
 
-      - layout: top-left
+      - layout: top-middle
         title: MANET for Disaster Relief Based on NDN
         description: | # this will include new lines to allow paragraphs
             Yang Jin, Xiaobin Tan, Weiwei Feng, Jinyang Lv,Aerman Tuerxun, Kunpeng Wang, 2018 1st IEEE InternationalConference on Hot Information-Centric Networking (HotICN). IEEE, 2018. [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8605969)
