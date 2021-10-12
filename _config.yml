@@ -96,8 +96,6 @@ content:
 
           I spent a wonderful 4 years with lovely classmates and friends.
 
-
-
   - title: Publication # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -117,7 +115,7 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: The
         #link: boringcompany.com
         # link_text: boringcompany.com
