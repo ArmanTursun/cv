@@ -1,2 +1,2 @@
 # cv
-https://armantursun.github.io/cv/
+Welcome to my resume: https://armantursun.github.io/cv/
