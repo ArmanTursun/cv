@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Arman Tursun
-#title: Senior Network System Administrator
+#title:
 phone: +81 080-3099-0424
 email: arman@g.ecc.u-tokyo.ac.jp
 # address: 2-30-15, Hongo, Bunkyo-ku, Tokyo, Japan
@@ -50,7 +50,9 @@ linkedin_username: armantursun
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Arman Tursun, who is [Uyghur](https://en.wikipedia.org/wiki/Uyghurs#:~:text=The%20Uyghurs%20are%20recognized%20as,the%20titular%20people%20of%20Xinjiang.), ethnic minority in Central Asia, from [Ili](https://en.wikipedia.org/wiki/Ili_Kazakh_Autonomous_Prefecture)
+
+  Officially, it should be written in Chinese pronunciation as Aerman Tuerxun, but I don't like it, so I still use the original name.
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
