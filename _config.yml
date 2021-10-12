@@ -108,9 +108,9 @@ content:
         #- title:  sproogen/modern-resume-theme
           #icon: fab fa-github
           #url: github.com/sproogen/modern-resume-theme
-        quote: >
-          Aerman Tuerxun, Ping Du, Junji Yumoto, Akihiro Nakao, 4th International Workshop on Advances in Slicing forSoftwarized Infrastructures, IEEE International Conference on Network Softwarization, 2021.
-        #description: | # this will include new lines to allow paragraphs
+        #quote: >
+          #Aerman Tuerxun, Ping Du, Junji Yumoto, Akihiro Nakao, 4th International Workshop on Advances in Slicing forSoftwarized Infrastructures, IEEE International Conference on Network Softwarization, 2021.
+        description: | # this will include new lines to allow paragraphs
           #Aerman Tuerxun, Ping Du, Junji Yumoto, Akihiro Nakao, 4th International Workshop on Advances in Slicing forSoftwarized Infrastructures, IEEE International Conference on Network Softwarization, 2021. [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9492547)
 
       - layout: top-middle
