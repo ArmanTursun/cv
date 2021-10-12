@@ -59,9 +59,21 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The University of Tokyo
-        caption: 2020 - Present
+        title: University of Tokyo
+        caption: Apr.2020 - Present
         sub_title: M.E Computer Science
+        #quote: >
+          #Established in 1636.
+        description: | # this will include new lines to allow paragraphs
+          Master student in the [Graduate School of Interdisciplinary Information Science](https://www.iii.u-tokyo.ac.jp/). Supervised by Professor [Akihiro Nakao](https://www.sys.t.u-tokyo.ac.jp/en/memberpage/2151).
+
+          I am broadly interested in networks and systems, more specifically in SDN.
+
+          My recent work is in the area of Network Sclicing, Local 5G, and Network Intelligence.
+      - layout: left
+        title: University of Tokyo
+        caption: Apr.2019 - Mar.2020
+        sub_title: Research Student
         #quote: >
           #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -69,15 +81,16 @@ content:
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: University of Science and Technology of China
+        caption: Sept.2014 - June.2018
+        sub_title: B.E Engineering
+        #quote: >
+        #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
 
 
   - title: Projects # Title for the section
