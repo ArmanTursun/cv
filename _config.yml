@@ -98,21 +98,21 @@ content:
 
 
 
-  - title: Projects # Title for the section
+  - title: Publication # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: https://github.com/ArmanTursun
+        title: Design and Manufacture of Narrow-Band BPF for Local 5G Network Slicing
+        link: [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9492547)
         # link_text: Project Website
         additional_links:
         #- title:  sproogen/modern-resume-theme
           #icon: fab fa-github
           #url: github.com/sproogen/modern-resume-theme
-        quote: >
-            This is .
+        #quote: >
+            #This is .
         description: | # this will include new lines to allow paragraphs
-            I started .
+            Aerman Tuerxun, Ping Du, Junji Yumoto, Akihiro Nakao, 4th International Workshop on Advances in Slicing forSoftwarized Infrastructures, IEEE International Conference on Network Softwarization, 2021.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
