@@ -65,7 +65,7 @@ content:
         #quote: >
           #Established in 1636.
         description: | # this will include new lines to allow paragraphs
-          Master student in the [Graduate School of Interdisciplinary Information Science](https://www.iii.u-tokyo.ac.jp/). Supervised by Professor [Akihiro Nakao](https://www.sys.t.u-tokyo.ac.jp/en/memberpage/2151).
+          Master student of [Nakao Lab](https://www.nakao-lab.org/) in the [Graduate School of Interdisciplinary Information Science](https://www.iii.u-tokyo.ac.jp/). Supervised by Professor [Akihiro Nakao](https://www.sys.t.u-tokyo.ac.jp/en/memberpage/2151).
 
           I am broadly interested in networks and systems, more specifically in SDN.
 
