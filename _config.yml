@@ -96,18 +96,11 @@ content:
 
           I spent a wonderful 4 years with lovely classmates and friends.
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and systems engineering some of my other interests and hobbies are:
-      - Bodybuilding
-      - Sports (Basketballs, Football, Soccer, F1, ...)
-      - Men's Fragrances
 
   - title: Publication # Title for the section
     layout: list # Type of content section (list/text)
     content:
-        layout: top-middle
+      - layout: top-middle
         title: Design and Manufacture of Narrow-Band BPF for Local 5G Network Slicing
         #link: [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9492547)
         #link_text: [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9492547)
