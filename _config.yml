@@ -164,7 +164,7 @@ content:
       - layout: left
         title: NLP
         sub_title: Doctoral Institute for Evidence Based Policy
-        link_text: https://www.doctoral.co.jp/
+        link: https://www.doctoral.co.jp/
         caption: Apr.2020 - Present
         quote: >
           Children Abuse Detection Based on Interviewing Data Using NLP
