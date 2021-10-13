@@ -141,20 +141,8 @@ content:
         quote: >
           BPF Design and Implementing Using 3D Printing
         description: |
-          Network slicing is considered one of the key technologies of the fifth-generation (5G) mobile networks. Especially in Local 5G networks, to ensure that one slice does not affect other slices, narrowband spectrum allocation appears to be
-                    particularly important. Band Pass Filter (BPF) is one of the
-                    most important components to isolate the spectrum resource of
-                    each Local 5G RAN slice. However, it is difficult to buy a BPF
-                    with a narrow band frequency on the market. Moreover, due
-                    to complicated manufacturing procedures, the price of BPF is
-                    usually very expensive, which increases the cost of establishing
-                    a Local 5G base station for small enterprises. In our design,
-                    we present a simple waveguide filter based on the theoretical
-                    principles of a low-pass prototype of Chebyshev approximation.
-                    The waveguide filter is designed with a center frequency at 4.75
-                    GHz and narrow bandwidth of 100MHz. After simply forging
-                    and evaluation, experimental results prove the feasibility of our
-                    method in the processing of low-cost narrowband BPFs.
+          Network slicing is considered one of the critical technologies of the fifth-generation (5G) mobile networks. Especially in Local 5G networks, narrowband spectrum allocation appears to be particularly important to ensure that one slice does not affect other slices. Band Pass Filter (BPF) is one of the essential components to isolate the spectrum resource of each Local 5G RAN slice. However, it is not easy to buy a BPF with a narrow band frequency on the market. Moreover, due to complicated manufacturing procedures, the price of BPF is usually very high, which increases the cost of establishing a Local 5G base station for small enterprises. In our design, we present a simple waveguide filter based on the theoretical principles of a low-pass prototype of Chebyshev approximation. The waveguide filter is designed with a center frequency at 4.75 GHz and narrow bandwidth of 100MHz. After simply forging and evaluation, experimental results prove the feasibility of our method in the processing of low-cost narrowband BPFs.
+
       - layout: left
         title: Network Analysis
         sub_title: University of Tokyo
@@ -162,25 +150,8 @@ content:
         quote: >
           Analyzing of Private Networks Check In-Out Log Data
         description: |
-          Private mobile networks such as private LTE/local
-          5G, which support flexibly configured and empowered innovative technologies that are not feasible in closed public mobile
-          networks recently, have been catching much attention both
-          in academia and in industries. In this paper, we design and
-          implement the automatic check-in service as an example of valueadded services of private mobile networks utilizing the flexibility
-          of softwarization. To alleviate the inherent coverage problem
-          of a private mobile network, we integrate our private mobile
-          network with a public LTE by sharing the subscriber database
-          so that a user can use the automatic check-in services deployed
-          in various private mobile networks with only one SIM issued
-          by a public network. We perform field tests in a private mobile
-          network and also a private-public hybrid mobile network and
-          disclose that the users’ check-out behavior is predictable through
-          numerical analyses. Based on the finding, we introduce two
-          machine learning-based inference mechanisms that can predict
-          a user’s check-out behavior at an inference accuracy of 83%
-          and 93% in a private network and a hybrid one separately. We
-          believe this paper can provide valuable experience for those who
-          are developing their private mobile networks.
+          Private mobile networks such as private LTE/local 5G, which support flexibly configured and empowered, innovative technologies that are not feasible in closed public mobile networks recently, have been catching much attention in academia and industries. In this paper, we design and implement the automatic check-in service as an example of value-added services of private mobile networks utilizing the flexibility of softwarization. To alleviate the inherent coverage problem of a private mobile network, we integrate our private mobile network with a public LTE by sharing the subscriber database so that a user can use the automatic check-in services deployed in various private mobile networks with only one SIM issued by a public network. Furthermore, we perform field tests in a private mobile network and a private-public hybrid mobile network and disclose that the users’ check-out behavior is predictable through numerical analyses. Based on the finding, we introduce two machine learning-based inference mechanisms that can predict a user’s check-out behavior at an inference accuracy of 83% and 93% in a private network and a hybrid one separately. We believe this paper can provide valuable experience for those who are developing their private mobile networks.
+
       - layout: left
         title: Network Analysis
         sub_title: University of Tokyo
@@ -188,18 +159,8 @@ content:
         quote: >
           Features Extraction and Analyzing on Route Information
         description: |
-          Stable and high-quality Internet connectivity is mandatory for 5G mobile networks. However, the pan-demic of
-          COVID-19 has forced global and large-scale staying at home and telecommuting in many countries. Theincreasing
-          traﬀic has induced more pressure on networks, devices and cloud data centers. It becomes an essentialtask for
-          network operators to enable their ability to automatically and rapidly detect network and device failures.
-          Wepropose a highly practical method based on highly practical technology. Our method has a high generalization
-          abilitythat can efficiently extract features from large-scale unstructured data and ensure high accuracy prediction.
-          First, 997 useful features are extracted from 28GB-per-day network logs. Then, a differential approach is employed
-          to preprocessthe extracted features so as to highlight the differences between normal and abnormal states.
-          Third, those features arerefined based on the feature importance we calculated. According to our experiment,
-          the proposed feature extractionand refinement method can reduce computation without degrading the performance.
-          Among the five types of failures,we achieve a 100% recall rate in four types and the rest can also reach 71%.
-          Overall, the total average predictionaccuracy of the proposed method is 94%.
+          Stable and high-quality Internet connectivity is mandatory for 5G mobile networks. However, the pandemic of COVID-19 has forced global and large-scale staying at home and telecommuting in many countries. The increasing traﬀic has induced more pressure on networks, devices, and cloud data centers. Therefore, it becomes an essential task for network operators to enable their ability to automatically and rapidly detect network and device failures. We propose an efficient method based on highly practical technology. Our method has a high generalization ability that efficiently extracts features from large-scale unstructured data and ensures high accuracy prediction. First, 997 useful features are extracted from 28GB-per-day network logs. Then, a differential approach is employed to preprocess the extracted features to highlight the differences between normal and abnormal states. Third, those features are refined based on the feature importance we calculated. According to our experiment, the proposed feature extraction and refinement method can reduce computation without degrading the performance. Among the five types of failures, we achieve a 100% recall rate in four types, and the rest can also reach 71%. Overall, the total average prediction accuracy of the proposed method is 94%.
+
       - layout: left
         title: NLP
         sub_title: Doctoral Institute for Evidence Based Policy
@@ -208,11 +169,8 @@ content:
         quote: >
           Children Abuse Detection Based on Interviewing Data Using NLP
         description: |
-          In cooperation with experts who have extensive knowledge on child abuse and child-rearing support, we provide
-          proposals based on evidence obtained through questionnaires and interviews for effective measures to be taken
-          by local governments, child guidance centers, child welfare facilities, Etc. In addition, we have prepared
-          manuals, case studies, and other tools that are useful in the field. Use machine learning technique BERT for
-          NLP to detect children abuse based on children and parents interviewing data or questionnaires.
+          In cooperation with experts who have extensive knowledge on child abuse and child-rearing support, we provide proposals based on evidence obtained through questionnaires and interviews for effective measures to be taken by local governments, child guidance centers, child welfare facilities, Etc. In addition, we have prepared manuals, case studies, and other tools that are useful in the field. Use machine learning technique BERT for NLP to detect children abuse based on children and parents interviewing data or questionnaires.
+
       - layout: left
         title: CNN
         sub_title: Doctoral Institute for Evidence Based Policy
@@ -221,11 +179,7 @@ content:
         quote: >
           Japanese Characters Recognition on Whiteboard Data Collection
         description: |
-          Use the CNN-based machine learning method to collect, recognize, and summarize data written on the
-          whiteboard with Japanese characters in The East Japan Ministry of Agriculture, Forestry, and Fisheries.
-          We have developed a system that can extract the necessary data from images taken with a smartphone. Even for
-          handwritten text, which is considered difficult to process by OCR, the system can correct the tilt of the
-          photo, Etc., and then use deep learning to read the image of the cut-out numbers and convert them into data.
+          Use the CNN-based machine learning method to collect, recognize, and summarize data written on the whiteboard with Japanese characters in The East Japan Ministry of Agriculture, Forestry, and Fisheries. We have developed a system that can extract the necessary data from images taken with a smartphone. Even for handwritten text, which is considered difficult to process by OCR, the system can correct the tilt of the photo, Etc., and then use deep learning to read the image of the cut-out numbers and convert them into data.
 
       - layout: left
         title: NDN Routing
@@ -233,21 +187,9 @@ content:
         link_text: [ EBP ](https://www.doctoral.co.jp/)
         caption: Oct.2017 - May.2018
         quote: >
-            Implementing NDN Based Routing on Raspberry Pi
+          Implementing NDN Based Routing on Raspberry Pi
         description: |
-            There is an acute need for reliable/efficient communication and content distribution during the disaster
-          relief situation, which can be supported by Mobile Ad hoc Networks (MANET) and Delay Tolerant Networks (DTN).
-          Traditional IP protocol performs inefficiently in MANET, while Named Data Networking (NDN) can be more
-          beneficial because of many inbuilt features. We propose a solution to adopt NDN for communication in the
-          specific context of disaster relief. Firstly, we propose a proactive routing protocol that is also
-          reactive-routing-enabled. Every node broadcasts its existence to neighbors and synchronizes the Network
-          Information Base to update its FIB. A universal entry set in FIB can be used to probe potential paths. It
-          also remains multiple next-hops for every prefix in FIB in order to support multipath forwarding. Secondly,
-          by duplicating or splitting the queue of Interests at a node, it can utilize multipath to improve transmission
-          reliability or efficiency. For the convenience of future work, our experiments are carried out in a real
-          platform consisting of some smart cars equipped with Raspberry Pi. Evaluation results show our solution can
-          build a communication network and support multipath forwarding with high reliability/efficiency in a disaster
-          relief scenario.
+          There is an acute need for reliable/efficient communication and content distribution during the disaster relief situation, supported by Mobile Ad hoc Networks (MANET) and Delay Tolerant Networks (DTN). Traditional IP protocol performs inefficiently in MANET, while Named Data Networking (NDN) can be more beneficial because of many inbuilt features. We propose a solution to adopt NDN for communication in the specific context of disaster relief. Firstly, we propose a proactive routing protocol that is also reactive-routing-enabled. Every node broadcasts its existence to neighbors and synchronizes the Network Information Base to update its FIB. A universal entry set in FIB can be used to probe potential paths. It also remains multiple next-hops for every prefix in FIB in order to support multipath forwarding. Secondly, duplicating or splitting the queue of Interests at a node can utilize multipath to improve transmission reliability or efficiency. For the convenience of future work, our experiments are carried out in a real platform consisting of some smart cars equipped with Raspberry Pi. Evaluation results show our solution can build a communication network and support multipath forwarding with high reliability/efficiency in a disaster relief scenario.
 
   - title: A Little More About Me
     layout: text
