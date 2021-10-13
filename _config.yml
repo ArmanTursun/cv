@@ -174,7 +174,7 @@ content:
       - layout: left
         title: CNN
         sub_title: Doctoral Institute for Evidence Based Policy
-        #link_text: [ EBP ](https://www.doctoral.co.jp/)
+        link: https://www.doctoral.co.jp/
         caption: Dec.2019 - Nov.2020
         quote: >
           Japanese Characters Recognition on Whiteboard Data Collection
@@ -190,6 +190,32 @@ content:
           Implementing NDN Based Routing on Raspberry Pi
         description: |
           There is an acute need for reliable/efficient communication and content distribution during the disaster relief situation, supported by Mobile Ad hoc Networks (MANET) and Delay Tolerant Networks (DTN). Traditional IP protocol performs inefficiently in MANET, while Named Data Networking (NDN) can be more beneficial because of many inbuilt features. We propose a solution to adopt NDN for communication in the specific context of disaster relief. Firstly, we propose a proactive routing protocol that is also reactive-routing-enabled. Every node broadcasts its existence to neighbors and synchronizes the Network Information Base to update its FIB. A universal entry set in FIB can be used to probe potential paths. It also remains multiple next-hops for every prefix in FIB in order to support multipath forwarding. Secondly, duplicating or splitting the queue of Interests at a node can utilize multipath to improve transmission reliability or efficiency. For the convenience of future work, our experiments are carried out in a real platform consisting of some smart cars equipped with Raspberry Pi. Evaluation results show our solution can build a communication network and support multipath forwarding with high reliability/efficiency in a disaster relief scenario.
+
+  - title: Teaching Experience # Title for the section
+      layout: list # Type of content section (list/text)
+      content:
+        - layout: text
+          content: |
+            I love teaching, this may be because my parents are both teachers. I like to help students with their cources and homework.
+            Also, I hope one day I can be a professor in the college, spreading the knowledge to students.
+        - layout: left
+          title: Lecturer
+          sub_title: Kakuchi Academy, Tokyo, Japan
+          caption: 2019 - Present
+          quote: >
+            Lecturer of Algorithm, Computer Networks and Computer System
+          description: |
+            I have been a lecture of Information Science courses at Kakuchi Academy, Tokyo, Japan. I have already helped over 40 international undergraduate students pass the entrance exam of graduate schools.
+
+        - layout: left
+          title: Tutor
+          sub_title: USTC, Anhui, China
+          caption: 2016 - 2018
+          quote: >
+            Tutoring Mathematics, Physics and Programming for High School Students.
+          description: |
+            When I was in college, I was a tutor in college tutoring center. I tutored 15 high school students in Mathematics, Physics and Programming.
+
 
   - title: A Little More About Me
     layout: text
