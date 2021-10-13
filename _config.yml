@@ -193,7 +193,7 @@ content:
           traﬀic has induced more pressure on networks, devices and cloud data centers. It becomes an essentialtask for
           network operators to enable their ability to automatically and rapidly detect network and device failures.
           Wepropose a highly practical method based on highly practical technology. Our method has a high generalization
-          abilitythat can eﬀiciently extract features from large-scale unstructured data and ensure high accuracy prediction.
+          abilitythat can efficiently extract features from large-scale unstructured data and ensure high accuracy prediction.
           First, 997 useful features are extracted from 28GB-per-day network logs. Then, a differential approach is employed
           to preprocessthe extracted features so as to highlight the differences between normal and abnormal states.
           Third, those features arerefined based on the feature importance we calculated. According to our experiment,
