@@ -221,13 +221,13 @@ content:
     content:
       - layout: top-middle
         title: About Teaching
-        quote: >
+        description: >
             I love teaching, and this may be because my parents are both teachers. I like to help students with their courses and homework. Although I have not tried TA before, I do want to experience it in my Ph. D. Also, I hope to be a professor in the college one day, spreading the most cutting-edge knowledge to students.
       - layout: left
         title: Network Service
         sub_title: ThreePro Group Inc (GiG Works Inc), Tokyo, Japan
         caption: 2018 - 2019
-        description: >
+        quote: >
             Lecturer of Algorithm, Computer Networks and Computer System
         description: |
             I have been a lecture of Information Science courses at Kakuchi Academy, Tokyo, Japan. I have already helped over 40 international undergraduate students pass the entrance exam of graduate schools.
