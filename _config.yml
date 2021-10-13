@@ -194,9 +194,11 @@ content:
   - title: Teaching Experience # Title for the section
       layout: list # Type of content section (list/text)
       content:
-        - layout: text
-          content: |
+        - layout: top
+          title: About Teaching
+          description:
             I love teaching, this may be because my parents are both teachers. I like to help students with their cources and homework.
+            Although, I have not tried TA before, I do want to experience it in my Ph. D.
             Also, I hope one day I can be a professor in the college, spreading the knowledge to students.
         - layout: left
           title: Lecturer
