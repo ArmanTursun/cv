@@ -261,8 +261,8 @@ content:
 
       Huge fan of Barcelona Football Club and The GOAT Messi!!!
       Visca El Barça
-      #Look at this cool image
-      #![Trees](/cv/images/landscape-trees.jpg "Trees")
+#Look at this cool image
+#![Trees](/cv/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
