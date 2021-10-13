@@ -96,11 +96,21 @@ content:
 
           I spent a wonderful 4 years with lovely classmates and friends.
 
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in networks and systems engineering some of my other interests and hobbies are:
+      - Bodybuilding
+      - Sports (Basketballs, Football, Soccer, F1, ...)
+      - Men's Fragrances
+
+      Look at this cool image
+      ![Trees](/cv/images/landscape-trees.jpg "Trees")
 
   - title: Publication # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: top
         title: Design and Manufacture of Narrow-Band BPF for Local 5G Network Slicing
         #link: [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9492547)
         #link_text: [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9492547)
@@ -111,7 +121,7 @@ content:
         #quote: >
           #Aerman Tuerxun, Ping Du, Junji Yumoto, Akihiro Nakao, 4th International Workshop on Advances in Slicing forSoftwarized Infrastructures, IEEE International Conference on Network Softwarization, 2021.
         description: | # this will include new lines to allow paragraphs
-          #Aerman Tuerxun, Ping Du, Junji Yumoto, Akihiro Nakao, 4th International Workshop on Advances in Slicing forSoftwarized Infrastructures, IEEE International Conference on Network Softwarization, 2021. [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9492547)
+          Aerman Tuerxun, Ping Du, Junji Yumoto, Akihiro Nakao, 4th International Workshop on Advances in Slicing forSoftwarized Infrastructures, IEEE International Conference on Network Softwarization, 2021. [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9492547)
 
       - layout: top-middle
         title: Analysis on Route Information Failure in IP Core Networks by NFV-Based Test Environment
