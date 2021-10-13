@@ -162,31 +162,31 @@ content:
         quote: >
           Analyzing of Private Networks Check In-Out Log Data
         description: |
-              Private mobile networks such as private LTE/local
-              5G, which support flexibly configured and empowered innovative technologies that are not feasible in closed public mobile
-              networks recently, have been catching much attention both
-              in academia and in industries. In this paper, we design and
-              implement the automatic check-in service as an example of valueadded services of private mobile networks utilizing the flexibility
-              of softwarization. To alleviate the inherent coverage problem
-              of a private mobile network, we integrate our private mobile
-              network with a public LTE by sharing the subscriber database
-              so that a user can use the automatic check-in services deployed
-              in various private mobile networks with only one SIM issued
-              by a public network. We perform field tests in a private mobile
-              network and also a private-public hybrid mobile network and
-              disclose that the users’ check-out behavior is predictable through
-              numerical analyses. Based on the finding, we introduce two
-              machine learning-based inference mechanisms that can predict
-              a user’s check-out behavior at an inference accuracy of 83%
-              and 93% in a private network and a hybrid one separately. We
-              believe this paper can provide valuable experience for those who
-              are developing their private mobile networks.
+          Private mobile networks such as private LTE/local
+          5G, which support flexibly configured and empowered innovative technologies that are not feasible in closed public mobile
+          networks recently, have been catching much attention both
+          in academia and in industries. In this paper, we design and
+          implement the automatic check-in service as an example of valueadded services of private mobile networks utilizing the flexibility
+          of softwarization. To alleviate the inherent coverage problem
+          of a private mobile network, we integrate our private mobile
+          network with a public LTE by sharing the subscriber database
+          so that a user can use the automatic check-in services deployed
+          in various private mobile networks with only one SIM issued
+          by a public network. We perform field tests in a private mobile
+          network and also a private-public hybrid mobile network and
+          disclose that the users’ check-out behavior is predictable through
+          numerical analyses. Based on the finding, we introduce two
+          machine learning-based inference mechanisms that can predict
+          a user’s check-out behavior at an inference accuracy of 83%
+          and 93% in a private network and a hybrid one separately. We
+          believe this paper can provide valuable experience for those who
+          are developing their private mobile networks.
       - layout: left
         title: Network Analysis
         sub_title: University of Tokyo
         caption: July.2020 - Dec.2020
         quote: >
-            Features Extraction and Analyzing on Route Information
+          Features Extraction and Analyzing on Route Information
         description: |
           Stable and high-quality Internet connectivity is mandatory for 5G mobile networks. However, the pan-demic of
           COVID-19 has forced global and large-scale staying at home and telecommuting in many countries. Theincreasing
@@ -219,9 +219,9 @@ content:
         link_text: [ EBP ](https://www.doctoral.co.jp/)
         caption: Dec.2019 - Nov.2020
         quote: >
-            Japanese Characters Recognition on Whiteboard Data Collection
+          Japanese Characters Recognition on Whiteboard Data Collection
         description: |
-            Use the CNN-based machine learning method to collect, recognize, and summarize data written on the
+          Use the CNN-based machine learning method to collect, recognize, and summarize data written on the
           whiteboard with Japanese characters in The East Japan Ministry of Agriculture, Forestry, and Fisheries.
           We have developed a system that can extract the necessary data from images taken with a smartphone. Even for
           handwritten text, which is considered difficult to process by OCR, the system can correct the tilt of the
