@@ -164,7 +164,7 @@ content:
       - layout: left
         title: NLP
         sub_title: Doctoral Institute for Evidence Based Policy
-        link_text: [EBP](https://www.doctoral.co.jp/)
+        #link_text: [EBP](https://www.doctoral.co.jp/)
         caption: Apr.2020 - Present
         quote: >
           Children Abuse Detection Based on Interviewing Data Using NLP
@@ -174,7 +174,7 @@ content:
       - layout: left
         title: CNN
         sub_title: Doctoral Institute for Evidence Based Policy
-        link_text: [ EBP ](https://www.doctoral.co.jp/)
+        #link_text: [ EBP ](https://www.doctoral.co.jp/)
         caption: Dec.2019 - Nov.2020
         quote: >
           Japanese Characters Recognition on Whiteboard Data Collection
@@ -184,7 +184,7 @@ content:
       - layout: left
         title: NDN Routing
         sub_title: University of Science and Technology of China
-        link_text: [ EBP ](https://www.doctoral.co.jp/)
+        #link_text: [ EBP ](https://www.doctoral.co.jp/)
         caption: Oct.2017 - May.2018
         quote: >
           Implementing NDN Based Routing on Raspberry Pi
