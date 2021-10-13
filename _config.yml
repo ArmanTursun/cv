@@ -162,7 +162,7 @@ content:
         quote: >
           Analyzing of Private Networks Check In-Out Log Data
         description: |
-        Private mobile networks such as private LTE/local
+              Private mobile networks such as private LTE/local
               5G, which support flexibly configured and empowered innovative technologies that are not feasible in closed public mobile
               networks recently, have been catching much attention both
               in academia and in industries. In this paper, we design and
