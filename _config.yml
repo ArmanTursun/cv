@@ -137,7 +137,6 @@ content:
         # link_text: boringcompany.com
         sub_title: University of Tokyo
         caption: Sept.2020 - Present
-        caption: Sept.2020 - Present
          # this will include new lines to allow paragraphs
         quote: >
           BPF Design and Implementing Using 3D Printing
@@ -159,8 +158,11 @@ content:
       - layout: left
         title: Network Analysis
         sub_title: University of Tokyo
-        caption: July.2020 - Dec.2020
-        description: Private mobile networks such as private LTE/local
+        caption: Feb.2020 - Aug.2020
+        quote: >
+          Analyzing of Private Networks Check In-Out Log Data
+        description: |
+        Private mobile networks such as private LTE/local
               5G, which support flexibly configured and empowered innovative technologies that are not feasible in closed public mobile
               networks recently, have been catching much attention both
               in academia and in industries. In this paper, we design and
@@ -179,7 +181,74 @@ content:
               and 93% in a private network and a hybrid one separately. We
               believe this paper can provide valuable experience for those who
               are developing their private mobile networks.
+      - layout: left
+        title: Network Analysis
+        sub_title: University of Tokyo
+        caption: July.2020 - Dec.2020
+        quote: >
+            Features Extraction and Analyzing on Route Information
+        description: |
+          Stable and high-quality Internet connectivity is mandatory for 5G mobile networks. However, the pan-demic of
+          COVID-19 has forced global and large-scale staying at home and telecommuting in many countries. Theincreasing
+          traﬀic has induced more pressure on networks, devices and cloud data centers. It becomes an essentialtask for
+          network operators to enable their ability to automatically and rapidly detect network and device failures.
+          Wepropose a highly practical method based on highly practical technology. Our method has a high generalization
+          abilitythat can eﬀiciently extract features from large-scale unstructured data and ensure high accuracy prediction.
+          First, 997 useful features are extracted from 28GB-per-day network logs. Then, a differential approach is employed
+          to preprocessthe extracted features so as to highlight the differences between normal and abnormal states.
+          Third, those features arerefined based on the feature importance we calculated. According to our experiment,
+          the proposed feature extractionand refinement method can reduce computation without degrading the performance.
+          Among the five types of failures,we achieve a 100% recall rate in four types and the rest can also reach 71%.
+          Overall, the total average predictionaccuracy of the proposed method is 94%.
 
+      - layout: left
+        title: NLP
+        sub_title: Doctoral Institute for Evidence Based Policy
+        link_text: [EBP](https://www.doctoral.co.jp/)
+        caption: Apr.2020 - Present
+        quote: >
+          Children Abuse Detection Based on Interviewing Data Using NLP
+        description: |
+          In cooperation with experts who have extensive knowledge on child abuse and child-rearing support, we provide
+          proposals based on evidence obtained through questionnaires and interviews for effective measures to be taken
+          by local governments, child guidance centers, child welfare facilities, Etc. In addition, we have prepared
+          manuals, case studies, and other tools that are useful in the field. Use machine learning technique BERT for
+          NLP to detect children abuse based on children and parents interviewing data or questionnaires.
+      - layout: left
+        title: NLP
+        sub_title: Doctoral Institute for Evidence Based Policy
+        link_text: [ EBP ](https://www.doctoral.co.jp/)
+        caption: Dec.2019 - Nov.2020
+        quote: >
+            Japanese Characters Recognition on Whiteboard Data Collection
+        description: |
+            Use the CNN-based machine learning method to collect, recognize, and summarize data written on the
+          whiteboard with Japanese characters in The East Japan Ministry of Agriculture, Forestry, and Fisheries.
+          We have developed a system that can extract the necessary data from images taken with a smartphone. Even for
+          handwritten text, which is considered difficult to process by OCR, the system can correct the tilt of the
+          photo, Etc., and then use deep learning to read the image of the cut-out numbers and convert them into data.
+
+      - layout: left
+        title: NDN Routing
+        sub_title: University of Science and Technology of China
+        link_text: [ EBP ](https://www.doctoral.co.jp/)
+        caption: Oct.2017 - May.2018
+        quote: >
+            Implementing NDN Based Routing on Raspberry Pi
+        description: |
+            There is an acute need for reliable/efficient communication and content distribution during the disaster
+          relief situation, which can be supported by Mobile Ad hoc Networks (MANET) and Delay Tolerant Networks (DTN).
+          Traditional IP protocol performs inefficiently in MANET, while Named Data Networking (NDN) can be more
+          beneficial because of many inbuilt features. We propose a solution to adopt NDN for communication in the
+          specific context of disaster relief. Firstly, we propose a proactive routing protocol that is also
+          reactive-routing-enabled. Every node broadcasts its existence to neighbors and synchronizes the Network
+          Information Base to update its FIB. A universal entry set in FIB can be used to probe potential paths. It
+          also remains multiple next-hops for every prefix in FIB in order to support multipath forwarding. Secondly,
+          by duplicating or splitting the queue of Interests at a node, it can utilize multipath to improve transmission
+          reliability or efficiency. For the convenience of future work, our experiments are carried out in a real
+          platform consisting of some smart cars equipped with Raspberry Pi. Evaluation results show our solution can
+          build a communication network and support multipath forwarding with high reliability/efficiency in a disaster
+          relief scenario.
 
   - title: A Little More About Me
     layout: text
