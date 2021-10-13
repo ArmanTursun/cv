@@ -50,7 +50,7 @@ linkedin_username: armantursun
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Arman Tursun and I am proudly an [Uyghur](https://en.wikipedia.org/wiki/Uyghurs#:~:text=The%20Uyghurs%20are%20recognized%20as,the%20titular%20people%20of%20Xinjiang.), ethnic minority in Central Asia, from [Ili](https://en.wikipedia.org/wiki/Ili_Kazakh_Autonomous_Prefecture) prefecture, China.
+  Hi, my name's Arman Tursun and I am lucky to be an [Uyghur](https://en.wikipedia.org/wiki/Uyghurs#:~:text=The%20Uyghurs%20are%20recognized%20as,the%20titular%20people%20of%20Xinjiang.), ethnic minority in Central Asia, from [Ili](https://en.wikipedia.org/wiki/Ili_Kazakh_Autonomous_Prefecture) prefecture, China.
 
   My name is pronunced as /ɑːrmʌn tuːrsʊn/. Sometimes, you may see it written in Chinese pronunciation as Aerman Tuerxun, but I don't quite like it and I prefer Arman Tursun in the normal life.
 
@@ -137,9 +137,10 @@ content:
         # link_text: boringcompany.com
         sub_title: University of Tokyo
         caption: Sept.2020 - Present
-        description: | # this will include new lines to allow paragraphs
-          BPF Design and Implementing Using 3D Printing
+         # this will include new lines to allow paragraphs
         quote: >
+          BPF Design and Implementing Using 3D Printing
+        description: |
           Network slicing is considered one of the key technologies of the fifth-generation (5G) mobile networks. Especially in Local 5G networks, to ensure that one slice does not affect other slices, narrowband spectrum allocation appears to be
                     particularly important. Band Pass Filter (BPF) is one of the
                     most important components to isolate the spectrum resource of
