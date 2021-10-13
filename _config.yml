@@ -128,19 +128,32 @@ content:
         description: | # this will include new lines to allow paragraphs
             Yang Jin, Xiaobin Tan, Weiwei Feng, Jinyang Lv,Aerman Tuerxun, Kunpeng Wang, 2018 1st IEEE InternationalConference on Hot Information-Centric Networking (HotICN). IEEE, 2018. [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8605969)
 
-  - title: Experience # Title for the section
+  - title: Research and Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The
+        title: RF & Mircowave
         #link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems*
+        sub_title: University of Tokyo
+        caption: Sept.2020 - Present
+        #quote: >
+          #Solving 21st century problems*
         description: | # this will include new lines to allow paragraphs
-            Every .
+          Network slicing is considered one of the key technologies of the fifth-generation (5G) mobile networks. Especially in Local 5G networks, to ensure that one slice does not affect other slices, narrowband spectrum allocation appears to be
+          particularly important. Band Pass Filter (BPF) is one of the
+          most important components to isolate the spectrum resource of
+          each Local 5G RAN slice. However, it is difficult to buy a BPF
+          with a narrow band frequency on the market. Moreover, due
+          to complicated manufacturing procedures, the price of BPF is
+          usually very expensive, which increases the cost of establishing
+          a Local 5G base station for small enterprises. In our design,
+          we present a simple waveguide filter based on the theoretical
+          principles of a low-pass prototype of Chebyshev approximation.
+          The waveguide filter is designed with a center frequency at 4.75
+          GHz and narrow bandwidth of 100MHz. After simply forging
+          and evaluation, experimental results prove the feasibility of our
+          method in the processing of low-cost narrowband BPFs.
 
   - title: A Little More About Me
     layout: text
