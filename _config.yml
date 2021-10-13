@@ -200,7 +200,6 @@ content:
           the proposed feature extractionand refinement method can reduce computation without degrading the performance.
           Among the five types of failures,we achieve a 100% recall rate in four types and the rest can also reach 71%.
           Overall, the total average predictionaccuracy of the proposed method is 94%.
-
       - layout: left
         title: NLP
         sub_title: Doctoral Institute for Evidence Based Policy
@@ -215,7 +214,7 @@ content:
           manuals, case studies, and other tools that are useful in the field. Use machine learning technique BERT for
           NLP to detect children abuse based on children and parents interviewing data or questionnaires.
       - layout: left
-        title: NLP
+        title: CNN
         sub_title: Doctoral Institute for Evidence Based Policy
         link_text: [ EBP ](https://www.doctoral.co.jp/)
         caption: Dec.2019 - Nov.2020
