@@ -246,10 +246,10 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       By now, I can speak in four languages:
-      - Uyghur: Native (Mother Tongue)  Awesome right? :)
-      - English: TOEFL 100 (R:27, L:26, S:22, W:25)  Trying to speak as native as I can.
+      - Uyghur: Native (Mother Tongue, awesome right? :))
+      - English: TOEFL 100 (R:27, L:26, S:22, W:25, trying to speak as native as I can.)
       - Chinese: Native  (Born and grew up there, so ...)
-      - Japanese: Fair (passive though)  Well I have been in Japan for three year, try me!
+      - Japanese: Fair (passive though, I have been in Japan for three year, try me!)
 
       Because of some ethnic relation between Turkic ethnics in Middle Asia, I also can understand like 60,70% of Uzbek, Kazakh, Turkish, ...
 
@@ -260,10 +260,8 @@ content:
       ![turkic](/cv/images/turkic.jpg "turkic")
 
       Alongside my interests in networks and systems engineering some of my other interests and hobbies are:
-      - Bodybuilding
-        -Well, I have to say I used to work out almost every day, but the pandemic made me back to 100kG ...
-      - Sports (Basketballs, Football, Soccer, F1, ...)
-        -I can't swim though...
+      - Bodybuilding (Well, I have to say I used to work out almost every day, but the pandemic made me back to 100kG ...)
+      - Sports (Basketballs, Football, Soccer, F1, ... I can't swim though)
       - Men's Fragrance (I love it, I love it, I just love it)
 
       ![body](/cv/images/body.png "body") ![sports](/cv/images/sports.jpg "sports") ![fragrance](/cv/images/fragrance.jpg "fragrance")
