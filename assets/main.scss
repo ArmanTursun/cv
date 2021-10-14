@@ -3,3 +3,139 @@
 ---
 
 @import 'modern-resume-theme';
+
+$ vim magazine_lite.libraries.yml
+......
+to-top:
+  version: VERSION
+  css:
+    component:
+      css/components/to-top.css: {}
+  js:
+    js/custom/to-top.js: {}
+    //加入这一行
+    js/custom/article-navigation.js: {}
+  dependencies:
+    - core/jquery
+......
+:wq
+$ vim css/theme/local-theme.css
+......
+/* 文章内容导航栏 */
+.article-navigation{
+    padding-left:2px;
+    list-style-type:none;
+}
+.article-navigation>li{
+    cursor:pointer;
+    color:#767676;
+    font-size:15px;
+    font-weight:500;
+}
+.article-navigation>li:hover{
+    border-left:1px solid #555;
+    color:#2b2b2b;
+}
+.article-navigation>.navigation-h1{
+    padding-left:0;
+}
+.article-navigation>.navigation-h2{
+    padding-left:15px;
+}
+.article-navigation>.navigation-h3{
+    padding-left:40px;
+}
+
+:wq
+$ vim js/custem/article-navigation.js
+
+jQuery(document).ready(function($) {
+  //获取article标签，并根据父级元素判断是否为文章内容页面
+  var article=document.querySelector("div.content>article");
+  if(!article) return;
+
+  //文章内容容器
+  var container=document.querySelector("div.content>article>.node__container>.node__main-content>.text-formatted");
+  //全部标题
+  var hArray=container.querySelectorAll("h1,h2,h3");
+
+  //获取元素的所在位置
+  var positionY=function(ele){
+    return ele.getBoundingClientRect().top+(window.pageYOffset || document.documentElement.scrollTop);
+  };
+  //导航点击处理事件：滚动到指定位置
+  var scrollTo=function(event){
+    var target=hArray[parseInt(event.target.getAttribute("data-index"))];
+    $("body,html").animate({scrollTop:(positionY(target)-160)},600);
+  };
+  //获取指定字符串的长度（英文两个算一个长度，中文算一个长度）
+  var length=function(str){
+    return (str.match(/[^ -~]/g)===null?(str.length):(str.length+str.match(/[^ -~]/g).length))/2;
+  };
+  //将标题的按照指定的长度截取
+  var titleDisplay=function(str,len){
+    var strLen=length(str);
+    return strLen>len?(str.substring(0,len)+"..."):str;
+  };
+
+  //搜索文章中全部标题,生成导航
+  var navigation=document.querySelector("#ul-article-navigation"),li;
+  navigation.innerHTML="";
+  for(var i=0,l=hArray.length;i<l;i++){
+    li=document.createElement("li");
+    li.className="navigation-"+hArray[i].tagName.toLowerCase();
+    li.appendChild(document.createTextNode(titleDisplay(hArray[i].innerHTML,18)));
+    li.title=hArray[i].innerHTML;
+    li.onclick=scrollTo;
+    li.setAttribute("data-index",i);
+    navigation.appendChild(li);
+  }
+  //导航中加入回到顶部
+  li=document.createElement("li");
+  li.className="navigation-h2";
+  li.appendChild(document.createTextNode("↑ 回到顶部"));
+  li.title="点击回到页面最顶部";
+  li.onclick=function(){$("body,html").animate({scrollTop:0},600)};
+  navigation.appendChild(li);
+
+  //顶部菜单
+  var header=document.querySelector("header.header");
+  //顶部容器
+  var container=document.querySelector(".header-container");
+  //起点边界（数值）
+  var mainStartY=container.offsetHeight-header.offsetHeight;
+  var isSet=false,pos=107;
+  //导航栏
+  navigation=document.querySelector("#block-article-navigation");
+  //终点边界（数值）
+  var mainEndY=positionY(document.querySelector("footer.footer"))-pos-navigation.offsetHeight-45;
+  //滚动时事件处理：设置或取消侧边导航固定
+  //init：是否初始化
+  var actionScroll=function(init){
+    var scrollTop=(document.documentElement.scrollTop||document.body.scrollTop);
+    //向上滚动到起点边界，设置侧边导航固定
+    if(scrollTop>mainStartY&&!isSet){
+      navigation.style.position="fixed";
+      navigation.style.top=pos+"px";
+      isSet=true;
+    }
+    //向下滚动到起点边界，设置侧边恢复
+    if(scrollTop<mainStartY&&isSet&&!init){
+      navigation.style.position="static";
+      navigation.style.top="0";
+      isSet=false;
+    }
+    //向上滚动到终点边界，设置侧边上移
+    if(isSet&&scrollTop>mainEndY&&!init){
+      navigation.style.top=(pos-(scrollTop-mainEndY))+"px";
+    }
+  };
+  //滚动监听
+  window.addEventListener("scroll",function(){actionScroll(false)});
+  //初始进入时，用于处理滚动后刷新的情况
+  actionScroll(true);
+});
+
+:wq
+
+$ exit
