@@ -94,7 +94,7 @@ content:
 
           Graduation Thesis: Routing Algorithm in Disaster Relief Based on NDN Networks.
 
-          I spent a wonderful 4 years with lovely classmates and friends.
+          I spent an incredible four years with lovely classmates and friends.
 
 
   - title: Publication # Title for the section
@@ -116,17 +116,17 @@ content:
       - layout: top
         title: Analysis on Route Information Failure in IP Core Networks by NFV-Based Test Environment
         description: | # this will include new lines to allow paragraphs
-          Fei Xia,Aerman Tuerxun, Jiaxing Lu. Ping Du, Akihiro Nakao, ITU Journal on Future and Evolving Technologiesspecial issue on AI and machine learning solutions in 5G and future networks, 2021.
+          Fei Xia, Aerman Tuerxun, Jiaxing Lu. Ping Du, Akihiro Nakao, ITU Journal on Future and Evolving Technologiesspecial issue on AI and machine learning solutions in 5G and future networks, 2021.
 
       - layout: top
         title: Automatic Check-In Service at Businesses Enabled with Private Mobile Networks
         description: | # this will include new lines to allow paragraphs
-            Ping Du,Aerman Tuerxun, Anan Sawabe, Takanori Iwai, Akihiro Nakao, IEEE Global CommunicationsConference (Globecom), 2020. [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9348115)
+            Ping Du, Aerman Tuerxun, Anan Sawabe, Takanori Iwai, Akihiro Nakao, IEEE Global CommunicationsConference (Globecom), 2020. [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9348115)
 
       - layout: top
         title: MANET for Disaster Relief Based on NDN
         description: | # this will include new lines to allow paragraphs
-            Yang Jin, Xiaobin Tan, Weiwei Feng, Jinyang Lv,Aerman Tuerxun, Kunpeng Wang, 2018 1st IEEE InternationalConference on Hot Information-Centric Networking (HotICN). IEEE, 2018. [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8605969)
+            Yang Jin, Xiaobin Tan, Weiwei Feng, Jinyang Lv, Aerman Tuerxun, Kunpeng Wang, 2018 1st IEEE InternationalConference on Hot Information-Centric Networking (HotICN). IEEE, 2018. [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8605969)
 
   - title: Research and Projects # Title for the section
     layout: list # Type of content section (list/text)
