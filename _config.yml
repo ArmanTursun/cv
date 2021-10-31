@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 # Content configuration version
 version: 2
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Farmantursun.github.io%2Fcv%2F&count_bg=%23848181&title_bg=%230B0B0B&icon=myspace.svg&icon_color=%23EDE8E8&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
+#[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Farmantursun.github.io%2Fcv%2F&count_bg=%23848181&title_bg=%230B0B0B&icon=myspace.svg&icon_color=%23EDE8E8&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # Personal info
 name: Arman Tursun
@@ -284,7 +284,7 @@ footer_show_references: true
 references_title: References on JamesGrand
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: ArmanTursun/modern-resume-theme
 
 sass:
   sass_dir: _sass
