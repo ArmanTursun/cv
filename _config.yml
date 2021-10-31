@@ -244,46 +244,31 @@ content:
 
 
   - title: A Little More About Me
-    layout: list
-    content:  # this will include new lines to allow paragraphs
-      - layout: top-middle
-        title: multilingual
-        description: >
-            By now, I can speak in four languages:
-              - Uyghur: Native (Mother Tongue, awesome right? :))
-              - English: Proficient (Trying to speak as native as I can.)
-              - Mandarin: Bilungual  (Born and grew up there, so ...)
-              - Japanese: Fair (passive though)
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+        By now, I can speak in four languages:
+          - Uyghur: Native (Mother Tongue, awesome right? :))
+          - English: Proficient (Trying to speak as native as I can.)
+          - Mandarin: Bilungual  (Born and grew up there, so ...)
+          - Japanese: Fair (passive though)
 
-            Because of some ethnic relation between Turkic ethnics in Middle Asia, I also can understand like 50,60% of Uzbek, Kazakh, Turkish, ...
+        Because of some ethnic relation between Turkic ethnics in Middle Asia, I also can understand like 50,60% of Uzbek, Kazakh, Turkish, ...
 
-            I want to learn more languages, go to more countries, and experience more cultures.
-            ''![turkic](/cv/images/turkic.jpg "turkic")
+        I want to learn more languages, go to more countries, and experience more cultures.
+        
+        ![turkic](/cv/images/turkic.jpg "turkic")
 
-          responsive_image:
-              template: /cv/images/turkic.jpg
-              sizes:
-                - width: 320
-                - width: 480
-                - width: 800
+        Alongside my interests in networks and systems engineering some of my other interests and hobbies are:
+          - Bodybuilding (Well, I have to say I used to work out almost every day, but the pandemic made me back to 100kG ...)
+          - Sports (Basketballs, Football, Soccer, F1, ... I can't swim though)
+          - Men's Fragrance (I love it, I love it, I just love it)
 
-      - layout: top-middle
-        title: Interests
-        description: >
-            Alongside my interests in networks and systems engineering some of my other interests and hobbies are:
-              - Bodybuilding (Well, I have to say I used to work out almost every day, but the pandemic made me back to 100kG ...)
-              - Sports (Basketballs, Football, Soccer, F1, ... I can't swim though)
-              - Men's Fragrance (I love it, I love it, I just love it)
+        ![body](/cv/images/body.png "body") ![sports](/cv/images/sports.jpg "sports") ![fragrance](/cv/images/fragrance.jpg "fragrance")
 
-            ![body](/cv/images/body.png "body") ![sports](/cv/images/sports.jpg "sports") ![fragrance](/cv/images/fragrance.jpg "fragrance")
+        Huge fan of Barcelona Football Club and The GOAT Messi !!!
+        Visca El Barça !!!
 
-      - layout: top-middle
-        title: Barca
-        description: >
-            Huge fan of Barcelona Football Club and The GOAT Messi !!!
-            Visca El Barça !!!
-
-            ![camp nou](/cv/images/camp nou.jpg "camp nou")   ![messi](/cv/images/messi.jpg "messi")
+        ![camp nou](/cv/images/camp nou.jpg "camp nou")   ![messi](/cv/images/messi.jpg "messi")
 #Look at this cool image
 #![Trees](/cv/images/landscape-trees.jpg "Trees")
 
@@ -305,4 +290,3 @@ sass:
 
 plugins:
  - jekyll-seo-tag
- - jekyll-responsive-image
