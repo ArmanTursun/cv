@@ -251,15 +251,21 @@ content:
         description: >
             By now, I can speak in four languages:
               - Uyghur: Native (Mother Tongue, awesome right? :))
-              - English: TOEFL 100 (R:27, L:26, S:22, W:25, trying to speak as native as I can.)
-              - Chinese: Native  (Born and grew up there, so ...)
-              - Japanese: Fair (passive though, I have been in Japan for three year, try me!)
+              - English: Proficient (Trying to speak as native as I can.)
+              - Mandarin: Bilungual  (Born and grew up there, so ...)
+              - Japanese: Fair (passive though)
 
-            Because of some ethnic relation between Turkic ethnics in Middle Asia, I also can understand like 60,70% of Uzbek, Kazakh, Turkish, ...
+            Because of some ethnic relation between Turkic ethnics in Middle Asia, I also can understand like 50,60% of Uzbek, Kazakh, Turkish, ...
 
             I want to learn more languages, go to more countries, and experience more cultures.
+            ''![turkic](/cv/images/turkic.jpg "turkic")
 
-            ![turkic](/cv/images/turkic.jpg "turkic")
+          responsive_image:
+              template: /cv/images/turkic.jpg
+              sizes:
+                - width: 320
+                - width: 480
+                - width: 800
 
       - layout: top-middle
         title: Interests
@@ -294,3 +300,4 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+ - jekyll-responsive-image
