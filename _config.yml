@@ -244,21 +244,22 @@ content:
 
 
   - title: A Little More About Me
-    layout: text
+    layout: list
     content: | # this will include new lines to allow paragraphs
-      By now, I can speak in four languages:
-      - Uyghur: Native (Mother Tongue, awesome right? :))
-      - English: TOEFL 100 (R:27, L:26, S:22, W:25, trying to speak as native as I can.)
-      - Chinese: Native  (Born and grew up there, so ...)
-      - Japanese: Fair (passive though, I have been in Japan for three year, try me!)
+      - layout: top-middle
+        title: multilingual
+        description: >
+            By now, I can speak in four languages:
+              - Uyghur: Native (Mother Tongue, awesome right? :))
+              - English: TOEFL 100 (R:27, L:26, S:22, W:25, trying to speak as native as I can.)
+              - Chinese: Native  (Born and grew up there, so ...)
+              - Japanese: Fair (passive though, I have been in Japan for three year, try me!)
 
-      Because of some ethnic relation between Turkic ethnics in Middle Asia, I also can understand like 60,70% of Uzbek, Kazakh, Turkish, ...
+            Because of some ethnic relation between Turkic ethnics in Middle Asia, I also can understand like 60,70% of Uzbek, Kazakh, Turkish, ...
 
-      I want to learn more languages, go to more countries, and experience more cultures.
+            I want to learn more languages, go to more countries, and experience more cultures.
 
-
-
-      ![turkic](/cv/images/turkic.jpg "turkic")
+            ![turkic](/cv/images/turkic.jpg "turkic")
 
       Alongside my interests in networks and systems engineering some of my other interests and hobbies are:
       - Bodybuilding (Well, I have to say I used to work out almost every day, but the pandemic made me back to 100kG ...)
@@ -277,8 +278,8 @@ content:
 #![Trees](/cv/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: true
-# references_title: References on request (Override references text)
+footer_show_references: false
+references_title: References on [JamesGrand](http://www.jameswgrant.co.uk)
 
 # Build settings
 remote_theme: sproogen/resume-theme
