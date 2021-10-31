@@ -273,13 +273,8 @@ content:
 #![Trees](/cv/images/landscape-trees.jpg "Trees")
 
 # Footer
-<<<<<<< HEAD
 footer_show_references: true
 references_title: References on JamesGrand
-=======
-footer_show_references: false
-references_title: References on [JamesGrand](http://www.jameswgrant.co.uk)
->>>>>>> parent of 31e79b8... update
 
 # Build settings
 remote_theme: sproogen/resume-theme
