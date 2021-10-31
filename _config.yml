@@ -54,7 +54,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   My name is pronunced as /ɑːrmʌn tuːrsʊn/. Sometimes, you may see it written in Chinese pronunciation as <mark>Aerman Tuerxun</mark>, but I don't quite like it and I prefer <mark>Arman Tursun</mark> in the normal life.
 
-  Currently, I am pursing my master's degree of <mark>Computer Science</mark> in [Tokyo](https://www.gotokyo.org/en/index.html), an amazing modern city full of life stress. I have been in Japan for over three years since I left the country. But I don't think I will spend the rest of my life here. The world is so wonderful, so why not go out and see it?
+  Currently, I am pursing my master's degree of Computer Science in [Tokyo](https://www.gotokyo.org/en/index.html), an amazing modern city full of life stress. I have been in Japan for over three years since I left the country. But I don't think I will spend the rest of my life here. The world is so wonderful, so why not go out and see it?
 
 
 content:
@@ -116,7 +116,7 @@ content:
       - layout: top
         title: Analysis on Route Information Failure in IP Core Networks by NFV-Based Test Environment
         description: | # this will include new lines to allow paragraphs
-          Fei Xia, Aerman Tuerxun, Jiaxing Lu. Ping Du, Akihiro Nakao, ITU Journal on Future and Evolving Technologiesspecial issue on AI and machine learning solutions in 5G and future networks, 2021.
+          Fei Xia, Aerman Tuerxun, Jiaxing Lu. Ping Du, Akihiro Nakao, ITU Journal on Future and Evolving Technologiesspecial issue on AI and machine learning solutions in 5G and future networks, 2021. [pdf](https://www.itu.int/dms_pub/itu-s/opb/jnl/S-JNL-VOL2.ISSUE4-2021-A09-PDF-E.pdf)
 
       - layout: top
         title: Automatic Check-In Service at Businesses Enabled with Private Mobile Networks
@@ -250,7 +250,7 @@ content:
           - Uyghur: Native (Mother Tongue, awesome right? :))
           - English: Proficient (Trying to speak as native as I can.)
           - Mandarin: Bilungual  (Born and grew up there, so ...)
-          - Japanese: Fair (passive though)
+          - Japanese: Fair (Passive though)
 
         Because of some ethnic relation between Turkic ethnics in Middle Asia, I also can understand like 50,60% of Uzbek, Kazakh, Turkish, ...
 
