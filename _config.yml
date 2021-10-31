@@ -269,6 +269,10 @@ content:
         Visca El Barça !!!
 
         ![camp nou](/cv/images/camp nou.jpg "camp nou")   ![messi](/cv/images/messi.jpg "messi")
+
+  - title: In the process of updating
+    layout: text
+    content: | # this will include new lines to allow paragraphs
 #Look at this cool image
 #![Trees](/cv/images/landscape-trees.jpg "Trees")
 
