@@ -12,9 +12,9 @@ version: 2
 name: Arman Tursun
 title: Pacifist, Antiracist, Environmentalist
 hit: true
-phone: +81 80-3099-0424
+#phone: +81 80-3099-0424
 email: arman@g.ecc.u-tokyo.ac.jp
-# address: 2-30-15, Hongo, Bunkyo-ku, Tokyo, Japan
+address: Hongo, Bunkyo-ku, Tokyo
 website: https://github.com/ArmanTursun
 
 # Dark Mode (true/false/never)
