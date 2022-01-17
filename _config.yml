@@ -54,25 +54,36 @@ linkedin_username: armantursun
 # about_title: About Me
 about_profile_image: images/profile2.PNG
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Arman Tursun and I am lucky to be an [Uyghur](https://en.wikipedia.org/wiki/Uyghurs#:~:text=The%20Uyghurs%20are%20recognized%20as,the%20titular%20people%20of%20Xinjiang.), ethnic minority in Central Asia, from [Ili](https://en.wikipedia.org/wiki/Ili_Kazakh_Autonomous_Prefecture) prefecture, China.
+  An [Uyghur](https://en.wikipedia.org/wiki/Uyghurs#:~:text=The%20Uyghurs%20are%20recognized%20as,the%20titular%20people%20of%20Xinjiang.), ethnic minority in Central Asia, from [Ili](https://en.wikipedia.org/wiki/Ili_Kazakh_Autonomous_Prefecture) prefecture, China.
 
-  My name is pronunced as /ɑːrmʌn tuːrsʊn/. Sometimes, you may see it written in Chinese pronunciation as <mark>Aerman Tuerxun</mark>, but I don't quite like it and I prefer <mark>Arman Tursun</mark> in the daily life.
+  <mark>Arman Tursun</mark> is pronunced as /ɑːrmʌn tuːrsʊn/. You may also see it written in Chinese pronunciation as <mark>Aerman Tuerxun</mark>, but I don't quite like it and I prefer <mark>Arman Tursun</mark> in the daily life.
 
-  Currently, I am pursing my master's degree of Computer Science in [Tokyo](https://www.gotokyo.org/en/index.html), an amazing modern city full of life stress. I have been in Japan for over three years since I left the country. But I don't think I will spend the rest of my life here. The world is so wonderful, so why not go out and see it?
+  Currently, I live in [Tokyo](https://www.gotokyo.org/en/index.html), an amazing modern city full of life stress.
 
 
 content:
+  - title: Work Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: University of Tokyo
+        caption: Apr.2022 - Present
+        sub_title: Project Researcher 
+        #quote: >
+          #Established in 1636.
+        description: | # this will include new lines to allow paragraphs
+          
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: University of Tokyo
-        caption: Apr.2020 - Present
+        caption: Apr.2020 - Apr.2022
         sub_title: M.E Computer Science
         #quote: >
           #Established in 1636.
         description: | # this will include new lines to allow paragraphs
-          2nd year master student of [Nakao Lab](https://www.nakao-lab.org/) in the [Graduate School of Interdisciplinary Information Science](https://www.iii.u-tokyo.ac.jp/). Supervised by Professor [Akihiro Nakao](https://www.sys.t.u-tokyo.ac.jp/en/memberpage/2151).
+          I got my M.E in the [Graduate School of Interdisciplinary Information Science](https://www.iii.u-tokyo.ac.jp/). Supervised by Professor [Akihiro Nakao](https://www.sys.t.u-tokyo.ac.jp/en/memberpage/2151) from [Nakao Lab](https://www.nakao-lab.org/).
 
           I am broadly interested in networks and systems, more specifically in SDN; also like network analyzing using ML methods.
 
