@@ -9,8 +9,8 @@ version: 2
 # Personal info
 name: Arman Tursun
 title: Pacifist, Antiracist, Environmentalist 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Farmantursun.github.io%2Fcv%2F&count_bg=%23848181&title_bg=%230B0B0B&icon=myspace.svg&icon_color=%23EDE8E8&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
-hit: false
+#[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Farmantursun.github.io%2Fcv%2F&count_bg=%23848181&title_bg=%230B0B0B&icon=myspace.svg&icon_color=%23EDE8E8&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
+hit: true
 #phone: +81 80-xxxx-xxxx
 #email: arman@g.ecc.u-tokyo.ac.jp
 address: Hongo, Bunkyo-ku, Tokyo
