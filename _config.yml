@@ -295,8 +295,8 @@ footer_show_references: true
 references_title: References on JamesGrand
 
 # Build settings
-#theme: ArmanTursun/modern-resume-theme
-remote_theme: sproogen/modern-resume-theme
+remote_theme: ArmanTursun/modern-resume-theme
+#remote_theme: sproogen/modern-resume-theme
 
 sass:
   sass_dir: _sass
